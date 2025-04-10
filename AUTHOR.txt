@@ -1,0 +1,3 @@
+Author: Alfonso José Navarro Escámez
+Date of creation: April 2025
+Original idea of the Event Wagon Pattern
