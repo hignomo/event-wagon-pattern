@@ -78,4 +78,4 @@ A logical unit of events that:
 
 ## 🔗 Read more
 
-👉 See `pattern/event_wagon_pattern.en.md` for the complete theoretical writeup.
+👉 See `pattern/event_wagon_pattern.md` for the complete theoretical writeup.
